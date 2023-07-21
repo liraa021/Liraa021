@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rodrigo Lira
 
-- ​:desktop_computer:​ Cursando Análise e Desenvolvimento de Sistemas
+- ​:desktop_computer:​ Análise e Desenvolvimento de Sistemas
 - 🌱 Participando do Santander Bootcamp FullStack Developer 
 - 😄 Pronouns: ele/dele
 
